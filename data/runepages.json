@@ -1,0 +1,36 @@
+{
+    "domination":{
+        "keystone":   
+            {"1": "Electrocute", "2": "Predator", "3": "Dark Harvest", "4":"Hail of Blades"},
+        "firstRow":   
+            {"1": "Cheap Shot", "2": "Taste of Blood", "3": "Sudden Impact"},
+        "secondRow":  
+            {"1": "Zombie Ward", "2": "Ghost Poro", "3": "Eyeball Collection"},
+        "thirdRow":   
+            {"1": "Ravenous Hunter", "2": "Ingenious Hunter", "3": "Relentless Hunter", "4": "Ultimate Hunter"}
+    },
+    "inspiration": {
+        "keystone":   {"1": "Glacial Augment", "2": "Unsealed Spellbook", "3": "Prototype: Omnistone"},
+        "firstRow":   {"1": "Hextech Flashtraption", "2": "Magical Footwear", "3": "Perfect Timing"},
+        "secondRow":  {"1": "Future's Market", "2": "Minion Dematerializer", "3": "Biscuit Delivery"},
+        "thirdRow":   {"1": "Cosmic Insight", "2": "Approach Velocity", "3": "Time Warp Tonic"}
+    },
+    "precision": {
+        "keystone":   {"1": "Press the Attack", "2": "Lethal Tempo", "3": "Fleet Footwork", "4": "Conqueror" },
+        "firstRow":   {"1": "Overheal", "2": "Triumph", "3": "Presence of Mind"},
+        "secondRow":  {"1": "Legend: Alacrity", "2": "Legend: Tenacity", "3": "Legend: Bloodline"},
+        "thirdRow":   {"1": "Coup de Grace", "2": "Cut Down", "3": "Last Stand"}
+    },
+    "resolve": {
+        "keystone":   {"1": "Grasp of the Undying", "2": "Aftershock", "3": "Guardian"},
+        "firstRow":   {"1": "Demolish", "2": "Font of Life", "3": "Shield Bash"},
+        "secondRow":  {"1": "Conditioning", "2": "Second Wind", "3": "Bone Plating"},
+        "thirdRow":   {"1": "Overgrowth", "2": "Revitalize", "3": "Unflinching"}
+    },
+    "sorcery": {
+        "keystone":   {"1": "Summon Aery", "2": "Arcane Comet", "3": "Phase Rush"},
+        "firstRow":   {"1": "Nullifying Orb", "2": "Manaflow Band", "3": "Nimbus Cloak"},
+        "secondRow":  {"1": "Transcendence", "2": "Celerity", "3": "Absolute Focus"},
+        "thirdRow":   {"1": "Scorch", "2": "Waterwalking", "3": "Gathering Storm"}
+    }
+}
